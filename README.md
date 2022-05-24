@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="390" alt="🤿" src="http://github-readme-streak-stats.herokuapp.com?user=ZiGmaX809&hide_border=true&theme=vue">](#)
 
-[<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiGmaX809&langs_count=8&layout=compact&hide_border=true&theme=vue">](#)
+[<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiGmaX809&hide=html&langs_count=8&layout=compact&hide_border=true&theme=vue">](#)
 
 [<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api/pin/?username=ZiGmaX809&repo=Dox&hide_border=true&theme=vue">](#)
 
