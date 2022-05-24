@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" width="390" alt="🤿" src="https://metrics.lecoq.io/ZiGmaX809?template=classic&base.metadata=0&isocalendar=1&followup=1&achievements=1&discussions=1&pagespeed=1&rss=1&stars=1&isocalendar.duration=full-year&stars.limit=2&followup.sections=repositories&followup.indepth=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&pagespeed.url=https%3A%2F%2Fwww.zigma.cc&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai&config.twemoji=true">](#)
+[<img align="left" width="390" alt="🤿" src="https://metrics.lecoq.io/ZiGmaX809?template=classic&base.metadata=0&isocalendar=1&followup=1&achievements=1&discussions=1&pagespeed=1&stars=1&isocalendar.duration=full-year&stars.limit=2&followup.sections=repositories&followup.indepth=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=1&pagespeed.url=https%3A%2F%2Fwww.zigma.cc&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai&config.twemoji=true">](#)
 
 [<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api?username=ZiGmaX809&hide_border=true&show_icons=true&theme=vue">](#)
 
