@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" width="390" alt="🤿" src="https://metrics.lecoq.io/ZiGmaX809?template=classic&isocalendar=1&achievements=1&repositories=1&pagespeed=1&stars=1&followup=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&stars.limit=2&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=https%3A%2F%2Fwww.zigma.cc%2F&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai">](#)
+[<img align="left" width="390" alt="🤿" src="https://metrics.lecoq.io/ZiGmaX809?template=classic&isocalendar=1&stars=1&followup=1&achievements=1&pagespeed=1&base.indepth=false&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=https%3A%2F%2Fwww.zigma.cc&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai">](#)
 
 [<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api?username=ZiGmaX809&hide_border=true&show_icons=true&theme=vue">](#)
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZiGma&hide_border=true&theme=vue">](#)
 
-[<img align="right" width="390" alt="🤿" src="/Users/zigma/Downloads/asuka_langley_shikinami_by_daul_d9xmr30-fullview副本.png">](#)
+[<img align="right" width="390" alt="🤿" src="https://raw.githubusercontent.com/ZiGmaX809/ZiGmaX809/main/asuka_langley_shikinami.png">](#)
