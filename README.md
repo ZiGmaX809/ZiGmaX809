@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [<img align="right" width="390" alt="🤿" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZiGma&hide_border=true&theme=vue">](#)
 
-[<img align="right" width="390" alt="🤿" src="https://raw.githubusercontent.com/ZiGmaX809/ZiGmaX809/main/asuka_langley_shikinami.png">](#)
+[<img align="right" width="390" alt="🤿" src="/Users/zigma/Downloads/asuka_langley_shikinami_by_daul_d9xmr30-fullview副本.png">](#)
